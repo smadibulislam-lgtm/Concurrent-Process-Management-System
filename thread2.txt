@@ -1,0 +1,3 @@
+sleep 150
+kill 3
+ps
